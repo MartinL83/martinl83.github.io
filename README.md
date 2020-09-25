@@ -1,2 +1,3 @@
 # lindgren.co
-Home of Martin Lindgren.
+
+My personal website. Nothing to exciting.
